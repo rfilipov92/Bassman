@@ -108,7 +108,7 @@
         display: block;
     }
 
-    .advantages-item {
+    .advantages__item {
         max-width: 100%;
         margin-bottom: 30px;
     }
